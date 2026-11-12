@@ -1,0 +1,2 @@
+# freeCodeCamp_Database_Certification_Projects
+Repo for Relational Databases Certification Exam
